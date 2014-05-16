@@ -34,36 +34,23 @@ Highlight
 
 Chess Board:
 
+![alt tag](https://github.com/emuro2/Chess-Game--Java-/raw/master/board.png)
  
-
 Enter Name:
 
- 
+![alt tag](https://raw.githubusercontent.com/emuro2/Chess-Game--Java-/master/Names.png)
+
 
 Score Board:
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![alt tag](https://raw.githubusercontent.com/emuro2/Chess-Game--Java-/master/ScoreBoard.png)
 
 Player 2 won a game and game is paused: 
 
+![alt tag](https://raw.githubusercontent.com/emuro2/Chess-Game--Java-/master/Pause.png)
  
 
 
 Board Menu:
-
+![alt tag](https://raw.githubusercontent.com/emuro2/Chess-Game--Java-/master/Menu.png)
  
