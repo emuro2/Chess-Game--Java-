@@ -1,0 +1,3 @@
+Source of Chess Piece images:
+
+http://en.wikipedia.org/wiki/Chess_piece
