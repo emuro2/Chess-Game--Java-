@@ -16,13 +16,18 @@ I implemented:
 Menu
 
 •	Board – Have a drop menu for New game, Restart, Pause, and Quit.
-o	New game is agreeing to start another game.
-o	Restart is agreeing to end in a tie.
-o	Pause the game.
-o	Quit is the same as forfeit.
+
+  New game is agreeing to start another game.
+
+  Restart is agreeing to end in a tie.
+
+  Pause the game.
+
+  Quit is the same as forfeit.
 
 •	Edit – Undo .
-o	Undo will undo the last moved made, even if a piece was eaten.
+
+  Undo will undo the last moved made, even if a piece was eaten.
 
 Score Board
 
