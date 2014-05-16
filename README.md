@@ -57,5 +57,6 @@ Player 2 won a game and game is paused:
 
 
 Board Menu:
+
 ![alt tag](https://raw.githubusercontent.com/emuro2/Chess-Game--Java-/master/Menu.png)
  
