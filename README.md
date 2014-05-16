@@ -41,7 +41,7 @@ Chess Board:
 
 ![alt tag](https://github.com/emuro2/Chess-Game--Java-/raw/master/board.png)
  
-Enter Name:
+Enter Name: 
 
 ![alt tag](https://raw.githubusercontent.com/emuro2/Chess-Game--Java-/master/Names.png)
 
