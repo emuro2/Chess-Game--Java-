@@ -17,25 +17,22 @@ Menu
 
 •	Board – Have a drop menu for New game, Restart, Pause, and Quit.
 
-  New game is agreeing to start another game.
-
-  Restart is agreeing to end in a tie.
-
-  Pause the game.
-
-  Quit is the same as forfeit.
+          New game is agreeing to start another game.
+          Restart is agreeing to end in a tie.
+          Pause the game.
+          Quit is the same as forfeit.
 
 •	Edit – Undo .
 
-  Undo will undo the last moved made, even if a piece was eaten.
+          Undo will undo the last moved made, even if a piece was eaten.
 
 Score Board
 
-•	Enter Names of players and it will keep track of your score.
+          Enter Names of players and it will keep track of your score.
 
 Highlight
 
-•	Highlights square selected.
+          Highlights square selected.
 
 Chess Board:
 
