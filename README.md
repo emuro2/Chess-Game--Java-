@@ -5,6 +5,8 @@ MVC Model Chess Game
 
 
 MVC stands for Model View Controller which is a pattern used for implementing a user interface.
+I order to move a piece, you should first click the piece you want to move then hold down the 
+shift key and click a destination sqaure for the piece selected.
 
 This is a 2-Player Chess Game with two different pieces:
 
